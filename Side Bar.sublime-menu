@@ -1,0 +1,7 @@
+[
+	{
+		"caption": "Open in Sourcetree",
+		"command": "side_bar_sourcetree",
+		"args": { "paths": [] }
+	}
+]
